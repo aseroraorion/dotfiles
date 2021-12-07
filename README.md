@@ -5,3 +5,4 @@ The configuration files of my desktop.
 - Distribution: Arch Linux
 - Terminal: Alacritty
 - Shell: zsh
+![Screenshot](screenshot.png "Desktop Screenshot")
