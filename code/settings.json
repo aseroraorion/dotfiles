@@ -1,0 +1,11 @@
+{
+    "workbench.colorTheme": "Nord Deep",
+    "workbench.productIconTheme": "fluent-icons",
+    "editor.cursorSmoothCaretAnimation": true,
+    "workbench.list.smoothScrolling": true,
+    "editor.smoothScrolling": true,
+    "editor.cursorBlinking": "phase",
+    "editor.fontFamily": "'JetbrainsMono Nerd Font'",
+    "editor.fontLigatures": true,
+    "workbench.iconTheme": "material-icon-theme"
+}
